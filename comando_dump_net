@@ -1,0 +1,1 @@
+Comando para buscar: man -k dump | grep traffic.- Comando para realizar dump traffic: tcpdump
